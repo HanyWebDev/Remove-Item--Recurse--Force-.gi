@@ -1,0 +1,53 @@
+nav class=navbar navbar-expand-md bg-light
+  div class=container-xxl
+    a href=#intro class=navbar-brand
+      span class=fw-bold text-secondary
+        i class=bi bi-book-halfi
+        span class=logoNameInv Smartspan
+      span
+    a
+
+    !-- toggle button for mobile nav --
+    button class=navbar-toggler type=button data-bs-toggle=collapse data-bs-target=#main-nav
+      span class=navbar-toggler-iconspan
+    button
+
+    !-- links --
+    div class=collapse navbar-collapse justify-content-end align-items-center id=main-nav
+      ul class=navbar-nav ul1 ull
+        li class=nav-item
+          a href= class=nav-linkHomea
+        li
+        
+        li class=nav-item
+          a href=#ab class=nav-linkAbouta
+        li
+        
+        li class=nav-item
+          a href=#wh class=nav-linkWhy Usa
+        li
+        
+        li class=nav-item
+          a href=#ser class=nav-linkServicesa
+        li
+
+        li class=nav-item
+          a href=#op class=nav-linkTestimonialsa
+        li
+
+        li class=nav-item
+          a href=#blog class=nav-linkBlogsa
+        li
+
+        li class=nav-item
+          a href=#fo class=nav-linkContacta
+        li
+        
+        li class=nav-item ul1
+          span class=dosLog Inspan
+          span class=onoSign Inspan
+        li
+      ul
+    div
+  div
+nav

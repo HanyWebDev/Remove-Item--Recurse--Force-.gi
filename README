@@ -1,0 +1,65 @@
+# Responsive Webpage Project 🚀
+
+## Owner
+
+**Hany Younan**
+Frontend Developer dedicated to crafting polished, responsive, and engaging web experiences.
+
+---
+
+## 📄 Overview
+
+A modern, fully responsive webpage template for an interior and architecture firm. Built with **HTML5**, **CSS3**, and **Vanilla JavaScript**, and enhanced by **Bootstrap** and custom **media queries** to guarantee seamless performance on desktop, tablet, and mobile devices.
+
+## ✨ Key Features
+
+* **Semantic HTML5**: Clean, accessible markup.
+* **Modular CSS3**: Organized styles with Flexbox and Grid for flexible layouts.
+* **Vanilla JavaScript**: Lightweight scripts for interactive elements.
+* **Bootstrap Integration**: Ready-to-use grid system, components, and utilities.
+* **Custom Media Queries**: Precise breakpoints for pixel-perfect responsiveness.
+* **Performance Optimized**: Minified assets and fast load times.
+* **Cross-Browser Compatibility**: Consistent behavior in all modern browsers.
+* **Mobile-First Design**: UX prioritized for touchscreen devices.
+
+## 🛠 Technologies & Tools
+
+| Technology        | Version/Notes      |
+| ----------------- | ------------------ |
+| **HTML5**         | Semantic elements  |
+| **CSS3**          | Flexbox · Grid     |
+| **JavaScript**    | ES6+ modules       |
+| **Bootstrap**     | v5 via CDN         |
+| **Media Queries** | Custom breakpoints |
+
+## 🚀 Quick Start
+
+1. **Clone** this repository:
+
+   ```bash
+   git clone https://github.com/hanynan8/Financial-Consulting-Landing-Page.git
+   ```
+2. **Navigate** to project directory:
+
+   ```bash
+   cd Financial-Consulting-Landing-Page
+   ```
+3. **Open** `index.html` in your browser.
+4. **Customize** styles in `css/styles.css` and scripts in `js/script.js`.
+
+> No build tools or dependencies required.
+
+## 🔗 Live Demo
+
+Experience the template live on GitHub Pages:
+[Demo Link](https://hanynan8.github.io/Financial-Consulting-Landing-Page)
+
+## 🤝 Contact & Links
+
+* ✉️ **Email**: [hany@example.com](mailto:hany@example.com) (update with your actual address)
+* 🔗 **GitHub**: [github.com/hanynan8](https://github.com/hanynan8)
+* 🌐 **Upwork**: [upwork.com/freelancers/\~01999a6834f779f66d](https://www.upwork.com/freelancers/~01999a6834f779f66d)
+
+---
+
+*Thank you for checking out this project! Feel free to fork, modify, and deploy to showcase your design and development skills.*
